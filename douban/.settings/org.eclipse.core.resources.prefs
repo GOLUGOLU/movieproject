@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//WebRoot/JSP/actorAdd.jsp=UTF-8
+encoding//WebRoot/JSP/actorSelect.jsp=UTF-8
+encoding//WebRoot/JSP/actorUpdate.jsp=UTF-8
+encoding//WebRoot/JSP/directorAdd.jsp=UTF-8
+encoding//WebRoot/JSP/directorSelect.jsp=UTF-8
+encoding//WebRoot/JSP/directorUpdate.jsp=UTF-8
+encoding//WebRoot/JSP/movieAdd.jsp=UTF-8
+encoding//WebRoot/JSP/movieUpdate.jsp=UTF-8
+encoding//WebRoot/moviepage.jsp=UTF-8
+encoding//WebRoot/publishreview.jsp=UTF-8
+encoding//WebRoot/single.jsp=UTF-8
+encoding//src/com/neu/cxl/Utils/Utils.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
